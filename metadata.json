@@ -1,0 +1,6 @@
+{
+  "name": "FRAG / Cyber Lounge",
+  "description": "Компьютерный клуб и киберспортивный лаунж: онлайн-бронирование игровых мест, тарифы Standard и VIP, интерактивная карта ПК и личный кабинет.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
